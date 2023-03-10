@@ -11,21 +11,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjeongik)](https://github.com/kimjeongik/github-readme-stats)
 
-##### Hi ~ welcome 👋
+# Hi ~ welcome 👋
 
 ---
 
-**bold***<br>
-*이텔릭*<br>
-~~줄긋기~~<br>
-* 1번
-* 2번
 
-[네이버](https://naver.com)
 
-```
-print('안녕')
-
-```
-
-:joy:
