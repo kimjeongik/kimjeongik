@@ -10,11 +10,8 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimjeongik)](https://github.com/kimjeongik/github-readme-stats)
-# Hi there 👋
-## Hi there 👋
-### Hi there 👋
-#### Hi there 👋
-##### Hi there 👋
+
+##### Hi ~ welcome 👋
 
 ---
 
